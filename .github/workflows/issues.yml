@@ -1,5 +1,5 @@
 name: handle issues
-on: issue
+on: issues
 jobs:
   linfo:
     runs-on: ubuntu-latest
